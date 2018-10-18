@@ -1,0 +1,5 @@
+map:intel:ivyhaswell:pcibase=0xdf2m:tom=16g
+:2chan
+:2rank
+;
+remap:rankmirror:ddr3

@@ -1,0 +1,4 @@
+map:intel:ivyhaswell:pcibase=0xdf2m:tom=4g
+:2rank
+;
+remap:rankmirror:ddr3

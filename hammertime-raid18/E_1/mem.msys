@@ -1,0 +1,4 @@
+map:intel:ivyhaswell:pcibase=0xdf2m:tom=8g
+:2chan
+;
+remap:rasxor:bit=3:mask=6;

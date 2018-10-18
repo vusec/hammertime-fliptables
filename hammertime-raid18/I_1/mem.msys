@@ -1,0 +1,3 @@
+map:intel:ivyhaswell:pcibase=0xdf2m:tom=4g
+;
+remap:rasxor:bit=3:mask=6
